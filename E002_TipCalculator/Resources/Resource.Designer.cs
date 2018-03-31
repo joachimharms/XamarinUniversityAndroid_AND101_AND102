@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("E001_TipCalcultor.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("E002_TipCalculator.Resource", IsApplication=true)]
 
-namespace E001_TipCalcultor
+namespace E002_TipCalculator
 {
 	
 	
@@ -44,8 +44,29 @@ namespace E001_TipCalcultor
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f040001
+			public const int button_calculate = 2130968577;
+			
 			// aapt resource value: 0x7f040000
-			public const int myButton = 2130968576;
+			public const int edit_input_bill = 2130968576;
+			
+			// aapt resource value: 0x7f040002
+			public const int linearLayout1 = 2130968578;
+			
+			// aapt resource value: 0x7f040005
+			public const int linearLayout2 = 2130968581;
+			
+			// aapt resource value: 0x7f040003
+			public const int text_tip = 2130968579;
+			
+			// aapt resource value: 0x7f040004
+			public const int text_tip_value = 2130968580;
+			
+			// aapt resource value: 0x7f040006
+			public const int text_total = 2130968582;
+			
+			// aapt resource value: 0x7f040007
+			public const int text_total_value = 2130968583;
 			
 			static Id()
 			{
@@ -79,8 +100,17 @@ namespace E001_TipCalcultor
 			// aapt resource value: 0x7f030000
 			public const int app_name = 2130903040;
 			
+			// aapt resource value: 0x7f030002
+			public const int calculate = 2130903042;
+			
 			// aapt resource value: 0x7f030001
 			public const int hello = 2130903041;
+			
+			// aapt resource value: 0x7f030004
+			public const int tip = 2130903044;
+			
+			// aapt resource value: 0x7f030003
+			public const int total = 2130903043;
 			
 			static String()
 			{

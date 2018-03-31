@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E001_TipCalcultor", "E001_TipCalcultor\E001_TipCalcultor.csproj", "{1B60CCF4-3B1B-41F6-B5D3-560C71C2760A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E002_TipCalculator", "E002_TipCalculator\E002_TipCalculator.csproj", "{08186AA6-E75B-447D-9D36-10E7FBA85688}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,12 @@ Global
 		{1B60CCF4-3B1B-41F6-B5D3-560C71C2760A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B60CCF4-3B1B-41F6-B5D3-560C71C2760A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1B60CCF4-3B1B-41F6-B5D3-560C71C2760A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{08186AA6-E75B-447D-9D36-10E7FBA85688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08186AA6-E75B-447D-9D36-10E7FBA85688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08186AA6-E75B-447D-9D36-10E7FBA85688}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{08186AA6-E75B-447D-9D36-10E7FBA85688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08186AA6-E75B-447D-9D36-10E7FBA85688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08186AA6-E75B-447D-9D36-10E7FBA85688}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
